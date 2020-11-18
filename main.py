@@ -1,7 +1,7 @@
+import os
 import pandas
 import re
 import sys
-import os
 
 
 def transform(filename: str) -> list:
